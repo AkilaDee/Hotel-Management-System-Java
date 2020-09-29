@@ -14,10 +14,7 @@ import java.util.logging.Logger;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Hasini
- */
+
 public class LoginForm extends javax.swing.JFrame {
 
     /**
