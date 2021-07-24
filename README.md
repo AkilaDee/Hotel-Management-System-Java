@@ -1,4 +1,10 @@
-# Hotel-Management-System-Java
+# Hotel-Management-System
+Application for hotel management 
+
+# Read Me Template
+
+---
+## Description
 
 A simple java web application to hotel management . Manages a collection of clients with the basic CRUD operations.List,Insert,Update,Delete.
 
